@@ -2,7 +2,7 @@
 
 
 - 🔭 No momento estou trabalhando com Suporte tecnico, mas em breve serei uma Dev Front End.
-- 🌱 Estudado React.js e TypeScript
+- 🌱 Estudando React.js e TypeScript
 - 📫 Contate-me: jennyknowles04@gmail.com
 - 😄 Pronomes: Ela/Dela
 

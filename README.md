@@ -1,8 +1,8 @@
 ### Olá, seja Bem vindo, meu nome é Jennyfer !!!!!!  👋
 
 
-- 🔭 Com foco em Desenvolvimento Front End.
-- 🌱 Aperfeiçoando no React.js.
+- 🔭 Com foco em Desenvolvimento Web Front End.
+- 🌱 Aperfeiçoando no React.js + Typescript.
 - 📫 Contate-me: jennyknowles04@gmail.com
 - 😄 Pronomes: Ela/Dela
 

@@ -3,7 +3,7 @@
 
 
 - 🔭 Com foco em Desenvolvimento Web Front End.
-- 🌱 Aperfeiçoando no React.js + Typescript.
+- 🌱 Aperfeiçoando no React.js + javaScript.
 - 📫 Contate-me: jennyknowles04@gmail.com
 - 😄 Pronomes: Ela/Dela
 

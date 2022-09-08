@@ -1,4 +1,5 @@
-### Olá, seja Bem vindo, meu nome é Jennyfer !!!!!!  👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+<h1> Olá, seja Bem vindo, meu nome é Jennyfer !!!!!!  👋</h1>
 
 
 - 🔭 Com foco em Desenvolvimento Web Front End.
@@ -34,3 +35,9 @@
  <a href="https://discord.gg/Jennyfer_#2037" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jennyknowles04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jennyfer-concei%C3%A7%C3%A3o-santos-a6b6a0154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jennyarch}/count.svg" /></p> 
+<br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>****

@@ -3,6 +3,7 @@
 
 
 - 🔭 Com foco em Desenvolvimento Web Front End.
+- 💻 Atualmente trabalho como desenvolvedora FrontEnd
 - 🌱 Aperfeiçoando no React.js + javaScript.
 - 📫 Contate-me: jennyknowles04@gmail.com
 - 😄 Pronomes: Ela/Dela

@@ -5,8 +5,8 @@
 - 🔭 Foco em Desenvolvimento Web Front-End.
 - 💻 Atualmente atuo como desenvolvedora Front-End.
 - 🌱 Aprimorando habilidades em: React.js e JavaScript no front-end.
-- 🌱 Explorando tecnologias de back-end: Node.js, MongoDB, Drizzle e Prisma.
-- 📫 Entre em contato: jennyknowles04@gmail.com
+- 🌱 Explorando tecnologias de back-end: Node.js, Java, C#, MongoDB, Drizzle e Prisma.
+- 📫 Entre em contato: jennyfer.sampaio.dev@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 

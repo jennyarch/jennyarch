@@ -3,8 +3,8 @@
 
 
 - 🔭 Foco em Desenvolvimento Web Front-End.
-- 💻 Atualmente atuo como desenvolvedora Front-End.
-- 🌱 Aprimorando habilidades em: React.js e JavaScript no front-end.
+- 💻 Já atuei como desenvolvedora Pleno.
+- 🌱 Aprimorando habilidades em: Java.
 - 🌱 Explorando tecnologias de back-end: Node.js, Java, C#, MongoDB, Drizzle e Prisma.
 - 📫 Entre em contato: jennyfer.sampaio.dev@gmail.com
 - 😄 Pronomes: Ela/Dela

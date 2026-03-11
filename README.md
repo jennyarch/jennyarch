@@ -1,44 +1,84 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
-<h1> Olá, seja Bem vindo, meu nome é Jennyfer !!!!!!  👋</h1>
+<h1 align="center">Olá 👋 Eu sou a Jennyfer Sampaio</h1>
 
+<p align="center">
+💻 Frontend Developer | ⚛️ React Specialist | 🚀 Apaixonada por UI moderna
+</p>
 
-- 🔭 Foco em Desenvolvimento Web Front-End.
-- 💻 Já atuei como desenvolvedora Pleno.
-- 🌱 Aprimorando habilidades em: Java.
-- 🌱 Explorando tecnologias de back-end: Node.js, Java, C#, MongoDB, Drizzle e Prisma.
-- 📫 Entre em contato: jennyfer.sampaio.dev@gmail.com
-- 😄 Pronomes: Ela/Dela
+---
 
+## 👩‍💻 Sobre mim
 
+Sou desenvolvedora **Frontend** com mais de **2 anos de experiência**, focada na criação de interfaces modernas, performáticas e escaláveis.
 
-<div align="center">
-  <a href="https://github.com/jennyarch">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=jennyarch&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyarch&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jenny-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jenny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jenny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jenny-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-</div>
-  
-  ##
- 
-<div align="center"> 
- 
-  <a href="https://www.instagram.com/jennyfer_csantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- <a href="https://discord.gg/Jennyfer_#2037" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jennyknowles04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jennyfer-concei%C3%A7%C3%A3o-santos-a6b6a0154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jennyarch}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>****
+Tenho experiência sólida com **React + TypeScript**, construção de aplicações com **Next.js**, **Vite** e **Tailwind**, além de trabalhar com manutenção e evolução de **sistemas legados**.
+
+Também possuo experiência com **Angular (legado)** e estou atualmente expandindo meus conhecimentos para **.NET e arquitetura backend**, buscando evoluir para posições **Pleno/Sênior** e futuramente **liderança técnica**.
+
+💡 Gosto de transformar requisitos complexos em interfaces simples, acessíveis e eficientes.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Vite
+- TailwindCSS
+- Bootstrap
+- HTML5
+- CSS3
+
+### Backend / Integração
+- Node.js
+- REST APIs
+- Integração com serviços backend
+
+### Outros conhecimentos
+- AngularJS (manutenção de legado)
+- Git & GitHub
+- Consumo de APIs
+- Performance e boas práticas de frontend
+- Acessibilidade (WCAG / ARIA)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌱 Atualmente estudando
+
+- Arquitetura de aplicações Frontend
+- ASP.NET Core
+- Boas práticas de liderança técnica
+- Escalabilidade de aplicações web
+
+---
+
+## 📌 Interesses profissionais
+
+- Frontend Architecture
+- Design Systems
+- Performance Web
+- Acessibilidade
+- Liderança de times Frontend
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: https://linkedin.com/in/SEULINK
+- 💻 GitHub: https://github.com/SEUUSUARIO
+
+---
+
+⭐ Se você gosta de tecnologia, frontend moderno e boas práticas, vamos nos conectar!

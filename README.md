@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou a Jennyfer Sampaio</h1>
+<h1 align="center">Olá 👋 sou Jennyfer Sampaio</h1>
 
 <p align="center">
 💻 Frontend Developer | ⚛️ React Specialist | 🚀 Apaixonada por UI moderna
@@ -8,11 +8,11 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora **Frontend** com mais de **2 anos de experiência**, focada na criação de interfaces modernas, performáticas e escaláveis.
+Sou desenvolvedora **Frontend** com mais de **3 anos de experiência**, formada em ADS(Análise e Desenvolvimento de Sistemas) focada na criação de interfaces modernas, performáticas e escaláveis.
 
 Tenho experiência sólida com **React + TypeScript**, construção de aplicações com **Next.js**, **Vite** e **Tailwind**, além de trabalhar com manutenção e evolução de **sistemas legados**.
 
-Também possuo experiência com **Angular (legado)** e estou atualmente expandindo meus conhecimentos para **.NET e arquitetura backend**, buscando evoluir para posições **Pleno/Sênior** e futuramente **liderança técnica**.
+Também possuo experiência com **Angular v1** e estou atualmente expandindo meus conhecimentos para **.NET e arquitetura backend**, buscando evoluir cada vez mais.
 
 💡 Gosto de transformar requisitos complexos em interfaces simples, acessíveis e eficientes.
 
@@ -33,15 +33,17 @@ Também possuo experiência com **Angular (legado)** e estou atualmente expandin
 
 ### Backend / Integração
 - Node.js
+- Java
+- C#
+- SQL
+- Docker
 - REST APIs
 - Integração com serviços backend
 
 ### Outros conhecimentos
-- AngularJS (manutenção de legado)
 - Git & GitHub
 - Consumo de APIs
 - Performance e boas práticas de frontend
-- Acessibilidade (WCAG / ARIA)
 
 ---
 
@@ -58,8 +60,7 @@ Também possuo experiência com **Angular (legado)** e estou atualmente expandin
 ## 🌱 Atualmente estudando
 
 - Arquitetura de aplicações Frontend
-- ASP.NET Core
-- Boas práticas de liderança técnica
+- Java (Spring Boot)
 - Escalabilidade de aplicações web
 
 ---
@@ -68,16 +69,14 @@ Também possuo experiência com **Angular (legado)** e estou atualmente expandin
 
 - Frontend Architecture
 - Design Systems
-- Performance Web
 - Acessibilidade
-- Liderança de times Frontend
+- Desenvolvedor Web Full Stack
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: https://linkedin.com/in/SEULINK
-- 💻 GitHub: https://github.com/SEUUSUARIO
+- 💼 LinkedIn: https://www.linkedin.com/in/jennyfer-sampaio/
 
 ---
 

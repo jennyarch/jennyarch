@@ -3,6 +3,9 @@
 <p align="center">
 💻 Frontend Developer | ⚛️ React Specialist | 🚀 Apaixonada por UI moderna
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,tailwind,js,html,css,git,java,net" />
+</p>
 
 ---
 
@@ -30,11 +33,6 @@ Também possuo experiência com **Angular v1** e estou atualmente expandindo meu
 - Integração com **APIs REST**
 - Desenvolvimento de interfaces **responsivas e acessíveis**
 
-## 🚀 Tecnologias que utilizo
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,tailwind,js,html,css,git" />
-</p>
 
 ### Frontend
 - React

@@ -18,11 +18,10 @@ Também possuo experiência com **Angular v1** e estou atualmente expandindo meu
 
 ---
 
-# 💼 Experiência Profissional
+## 💼 Experiência Profissional
 
-## Desenvolvedora Frontend Pleno
-
-### Principais responsabilidades
+### Desenvolvedora Pleno
+**Principais responsabilidades**
 
 - Desenvolvimento de **novas telas e funcionalidades** em portais corporativos  
 - **Manutenção e evolução de sistemas existentes**

@@ -18,7 +18,24 @@ Também possuo experiência com **Angular v1** e estou atualmente expandindo meu
 
 ---
 
+# 💼 Experiência Profissional
+
+## Desenvolvedora Frontend Pleno
+
+### Principais responsabilidades
+
+- Desenvolvimento de **novas telas e funcionalidades** em portais corporativos  
+- **Manutenção e evolução de sistemas existentes**
+- **Correção de bugs e melhoria de performance**
+- **Migração de código legado**
+- Integração com **APIs REST**
+- Desenvolvimento de interfaces **responsivas e acessíveis**
+
 ## 🚀 Tecnologias que utilizo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,tailwind,js,html,css,git" />
+</p>
 
 ### Frontend
 - React
@@ -46,6 +63,12 @@ Também possuo experiência com **Angular v1** e estou atualmente expandindo meu
 - Performance e boas práticas de frontend
 
 ---
+
+## 📌 Projetos em destaque
+
+- 🔹 Sistema de gestão de estoque (React + TypeScript)
+- 🔹 Portal corporativo com Next.js
+- 🔹 Migração de sistema legado AngularJS → React 
 
 ## 📊 GitHub Stats
 

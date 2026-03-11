@@ -70,9 +70,9 @@ Também possuo experiência com **Angular v1** e estou atualmente expandindo meu
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jennyarch&show_icons=true&theme=radical" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyarch&layout=compact&theme=radical"/>
 </p>
 
 ---

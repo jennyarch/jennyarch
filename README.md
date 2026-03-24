@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 sou Jennyfer Sampaio</h1>
 
 <p align="center">
-💻 Frontend Developer/Fullstack Feveloper | ⚛️ React Specialist | 🚀 Apaixonada por UI moderna
+💻 Frontend Developer/Fullstack Developer | ⚛️ React Specialist | 🚀 Apaixonada por UI moderna
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,tailwind,js,html,css,git,java,net" />
